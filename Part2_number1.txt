@@ -1,0 +1,4 @@
+1.a the parent classes is Spell and the child classes are Accio and Confundo
+b. Accio, <class '__main__.Confundo'>,Confundus Charm Confundo, and Causes the victim to become confused and befuddled.
+c. As study_spell is a function that is outside the class but it has the father classes in its parameters and so it will call get_description instantly because it wont call the __init__ as it is only an initial
+d.add get_description to Accio then return "This charm summons an object to the caster potentially over a significant distance". 
